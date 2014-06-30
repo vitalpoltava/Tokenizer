@@ -12,7 +12,7 @@ module.exports = function(grunt) {
                 module: 'tokenizer.templates'
             },
             main: {
-                src: ['templates/*.partials.tmpl.html'],
+                src: ['templates/*.tmpl.html'],
                 dest: 'templates.js'
             }
         }

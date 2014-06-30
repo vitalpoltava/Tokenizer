@@ -7,7 +7,7 @@
         return {
             restrict: 'E',
             replace: true,
-            templateUrl: 'templates/Tokenizer.tmpl.html',
+            template: $templateCache.get('Tokenizer.tmpl.html'),
             controller: function($scope) {
 
                 function _isEnterPressed(event) {
