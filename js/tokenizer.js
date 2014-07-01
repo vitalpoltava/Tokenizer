@@ -7,6 +7,7 @@
         return {
             restrict: 'E',
             replace: true,
+            scope: {},
             template: $templateCache.get('Tokenizer.tmpl.html'),
             controller: function($scope) {
 

@@ -1,7 +1,7 @@
 Tokenizer
 =========
 
-Simple tokenizer -- AngularJS
+Simple `tokenizer` example using **AngularJS**.
 
 Usage
 -----
